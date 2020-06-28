@@ -19,7 +19,7 @@ En palabras sus propias palabras:
 |:------------:|:--------------------------------:|
 | `Frontend`   |  Handlebars + Javacsript + UIKit |
 | `Backend`    |    Node.js + Express             |
-| `Server`     | CPanel                           |
+| `Hosting`    | CPanel                           |
 | `Database`   | MySql                            |
 
 ## Estelarte 🖼️ 🎨 🖌️
@@ -36,4 +36,4 @@ En sus propias palabras:
 | Capa         |  Tecnología                        |
 |:------------:|:----------------------------------:|
 | `Frontend`   | HTML5 + CSS3 +  Javacsript + UIKit |
-| `Server`     | CPanel                             |
+| `Hosting`    | CPanel                             |
