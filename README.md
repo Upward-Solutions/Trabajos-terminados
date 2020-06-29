@@ -1,6 +1,7 @@
 # Trabajos terminados ✔️
 
 A continuación les presentamos un listado y una pequeña reseña de los proyectos en los que estuvimos trabajando en el último tiempo.
+@Para ponerte en contacto con nosotros podés escribirnos a nuestro correo `upwardsd@gmail.com`[📧](mailto:upwardsd@gmail.com)
 
 ## B&C Asset Management 💸 🏦 📈
 
