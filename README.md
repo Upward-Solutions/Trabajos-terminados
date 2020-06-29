@@ -1,9 +1,11 @@
 # Trabajos terminados ✔️
 
 A continuación les presentamos un listado y una pequeña reseña de los proyectos en los que estuvimos trabajando en el último tiempo.
-@Para ponerte en contacto con nosotros podés escribirnos a nuestro correo `upwardsd@gmail.com`[📧](mailto:upwardsd@gmail.com)
 
-## B&C Asset Management 💸 🏦 📈
+## Contacto 
+Para ponerte en contacto con nosotros podés escribirnos a nuestro correo `upwardsd@gmail.com`[📧](mailto:upwardsd@gmail.com)
+
+### B&C Asset Management 💸 🏦 📈
 
 Se trata de un equipo de jóvenes con mucha iniciativa y con ganas de ayudarte a cuidar y hacer crecer tus ahorros. En b&c podés hacer tus inversiones con confianza ya sea que quieras una inversión conservadora y arriesgada.
 
@@ -23,7 +25,7 @@ En palabras sus propias palabras:
 | `Hosting`    | CPanel                           |
 | `Database`   | MySql                            |
 
-## Estelarte 🖼️ 🎨 🖌️
+### Estelarte 🖼️ 🎨 🖌️
 
 Estelarte es el espacio en internet del cual se apropió esta maravillosa artista plástica para regalarnos su arte. Ahí podrás apreciar todos sus trabajos y actividades y disfrutar de la multiplicidad de técnicas que domina.
 
