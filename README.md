@@ -20,7 +20,7 @@ En palabras sus propias palabras:
 
 | Capa         |  Tecnología                      |
 |:------------:|:--------------------------------:|
-| `Frontend`   |  Handlebars + Javacsript + UIKit |
+| `Frontend`   |  HTML + Javacsript + UIKit |
 | `Backend`    |    Node.js + Express             |
 | `Hosting`    | CPanel                           |
 | `Database`   | MySql                            |
