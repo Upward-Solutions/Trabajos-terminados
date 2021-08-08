@@ -20,10 +20,10 @@ En palabras sus propias palabras:
 
 | Capa         |  Tecnología                      |
 |:------------:|:--------------------------------:|
-| `Frontend`   |  HTML + Javacsript + UIKit |
-| `Backend`    |    Node.js + Express             |
-| `Hosting`    | CPanel                           |
-| `Database`   | MySql                            |
+| `Frontend`   |  HTML + Javacsript + UIKit       |
+| `Backend`    |  Node.js + Express               |
+| `Hosting`    |  CPanel                          |
+| `Database`   |  MySql                           |
 
 ### Estelarte 🖼️ 🎨 🖌️
 
@@ -39,4 +39,21 @@ En sus propias palabras:
 | Capa         |  Tecnología                        |
 |:------------:|:----------------------------------:|
 | `Frontend`   | HTML5 + CSS3 +  Javacsript + UIKit |
+| `Hosting`    | CPanel                             |
+
+
+### Prolantec 🛠️👷‍⚒
+
+Prolantec es la web de una pujante distribuidora de materiales para la construcción que quiso renovar su marca y trabajamos en conjunto para alcanzar ese proceso.
+
+En sus propias palabras:
+
+>Somos una empresa Consultora y Distribuidora de productos técnicos para la construcción. Brindamos atención personalizada a nuestros clientes para que tengan el mejor asesoramiento técnico mientras desarrollan su obra. 
+
+👇 Podés conocer el sitio entrando acá
+[Prolantec](https://prolantec.com/)
+
+| Capa         |  Tecnología                        |
+|:------------:|:----------------------------------:|
+| `Frontend`   | HTML5 + CSS3 +  Javacsript + JQuery|
 | `Hosting`    | CPanel                             |
